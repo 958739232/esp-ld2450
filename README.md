@@ -1,1 +1,1 @@
-# esp-ld2450
+# esphome-2450
